@@ -1,0 +1,22 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data
+.RData
+.RDataTmp
+
+# User-specific files
+.Rproj.user/
+
+# R environment variables
+.Renviron
+
+# R build artifacts / knitr HTML/markdown outputs
+.Rcheck/
+*.knitr
+*.utf8.md
+*.knit.md
+
+# Shiny server / rsconnect deployments
+rsconnect/
