@@ -1,0 +1,6 @@
+Package: DataInPractice
+Type: Package
+Title: SOAR2 Data in Practice Session
+Description: Course materials for the Data in Practice session.
+Version: 1.0.0
+Imports: dplyr, googlesheets4, purrr
